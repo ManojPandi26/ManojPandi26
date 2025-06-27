@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoj%20Pandi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Expert%20%7C%20Microservices%20Enthusiast&descSize=16&descAlignY=51" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoj%20Pandi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Expert%20%7C%20Microservices%20Enthusiast&descSize=16&descAlignY=51" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;Microservices+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Microservices+Explorer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,9 +30,9 @@
 ### 👨‍💻 Developer Profile
 ```yaml
 Name: Manoj Pandi
-Role: Full Stack Developer
+Role: Java Full Stack Developer
 Location: India 🇮🇳
-Experience: Building scalable applications
+Experience: Building scalable Backend applications
 Motto: "Code with purpose, debug with patience"
 
 Current_Status:
@@ -42,7 +42,7 @@ Current_Status:
   - 💼 Seeking: Backend Engineering Opportunities
 
 Contact:
-  Email: manojpandi@gmail.com
+  Email: manojpandi680@gmail.com
   Availability: Open for collaboration
 ```
 
@@ -201,7 +201,7 @@ Docker         15 mins         ░░░░░░░░░░░░░░░░�
   <a href="https://www.linkedin.com/in/manojpandi2603" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:manojpandi@gmail.com" target="_blank">
+  <a href="mailto:manojpandi680@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ManojPandi26" target="_blank">
@@ -219,17 +219,10 @@ Docker         15 mins         ░░░░░░░░░░░░░░░░�
   </a>
 </div>
 
----
 
-## 🎵 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
 <div align="center">
